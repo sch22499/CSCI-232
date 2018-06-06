@@ -9,6 +9,12 @@ import java.util.Queue;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.Stack;
+/*
+ * Sarah Hall
+ * CSCI 232
+ * Program 4
+ */
+
 
 public class BFS_DFS {
 	public BufferedWriter out = null;

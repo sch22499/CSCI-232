@@ -6,6 +6,12 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+/*
+ * Sarah Hall
+ * CSCI 232
+ * Program 4
+ */
+
 public class Driver {
 
 	public static void main(String[] args) throws IOException{
